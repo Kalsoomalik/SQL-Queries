@@ -1,2 +1,4 @@
 # SQL-Queries
-Queries to access data in sakila-database
+Queries with instructions to access desired data in sakila-database 
+
+Link: https://github.com/Kalsoomalik/sql-queries/blob/master/sql_homework.sql
